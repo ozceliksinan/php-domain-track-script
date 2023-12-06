@@ -27,7 +27,7 @@ You can install manually, follow these steps:
 4. Your password is encrypted with MD5 and recorded in the database, so please change your password from your profile after logging in, not directly from the database.
 5. To send automatic e-mail, first fill in the e-mail settings section in the settings section according to your needs.
 6. After logging in with this account, you can change your e-mail and password in the profile section on the left menu.
-s 
+
 ### Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
